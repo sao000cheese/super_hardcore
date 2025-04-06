@@ -45,20 +45,7 @@
       <strong>نوع سرور:</strong> هاردکور<br>
       <strong>قوانین:</strong> هرگونه تقلب ممنوعه<br>
       <strong>لینک واتساپ:</strong> <a href="https://chat.whatsapp.com/CGrlXl99SHA3MIFk2wxDgy" target="_blank">گروه واتساپ سرور</a>
-    </p>
-  </div>
 
-
-    <title>اعضای سرور</title>
-      
-    <strong>sao000cheese</strong>
-    <strong>rohamnz</strong>
-    <strong>artinmdn</strong>
-
-
-  <h1>سید هاردکور</h1>
-
-  <strong>6614077739756559953</strong>
 
 
 
